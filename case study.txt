@@ -1,0 +1,10 @@
+Case Study
+
+Class Required 1- EMPLOYEE
+Attributes - Employee Name, Employee ID, Department, Designation
+
+Class Required 2- TIMESHEET
+Attributes - Date, Activity, Description, Hours spent, Status
+
+Class Required 3 - MANAGER
+Attributes - Edit, Comment, Approval, Rejection, Sort
