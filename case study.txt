@@ -2,9 +2,24 @@ Case Study
 
 Class Required 1- EMPLOYEE
 Attributes - Employee Name, Employee ID, Department, Designation
+Functions:  
+                      getEMPLOYEEdetails(Ename)
+                      updateTIMESHEET()
+                      addTIMESHEET(HS)
+                      displayTIMESHEET(date)
 
 Class Required 2- TIMESHEET
 Attributes - Date, Activity, Description, Hours spent, Status
+Functions:
+                       displayTIMESHEETdetails(EmpID)
+                       updateTIMESHEETactivity()
+                       checkTIMESHEETstatus()
 
 Class Required 3 - MANAGER
 Attributes - Edit, Comment, Approval, Rejection, Sort
+Functions:
+                        getEMPLOYEEdetails(Ename)
+                        displayTIMESHEETdetails(EmpID)
+                        sortTIMESHEET(date)
+                        addTIMESHEET(comment)
+                        addTIMESHEET(status)
