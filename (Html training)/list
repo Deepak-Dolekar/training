@@ -1,0 +1,13 @@
+<html>
+<head>
+<title> LIST</title>
+</head>
+<body>
+<h2>Beavrage's available</h2>
+<ol>
+<li>coffee</li>
+<li>Tea</li>
+<li>Milk</li>
+</ol>
+</body>
+</html>
